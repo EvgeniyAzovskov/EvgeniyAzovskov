@@ -81,7 +81,8 @@
 ## 📁 Тестовые артефакты
 
 * 🐧 **Bash** – [автоматизация рутинных задач](https://github.com/EvgeniyAzovskov/Bash)
-*   **Веб-тестирование** – [функциональное и исследовательское тестирование](https://github.com/EvgeniyAzovskov/Azovskov)
+*   **Веб-тестирование** – [функциональное и исследовательское тестирование](https://github.com/EvgeniyAzovskov/Web-shop-testing)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EvgeniyAzovskov/Azovskov)
 
 
