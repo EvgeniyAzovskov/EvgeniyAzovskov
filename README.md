@@ -78,10 +78,10 @@
 
 
 ---
-## 📁 Test Artifacts
+## 📁 Тестовые артефакты
 
-🐧 **Bash** – [автоматизация рутинных задач](https://github.com/EvgeniyAzovskov/Bash)
-
+* 🐧 **Bash** – [автоматизация рутинных задач](https://github.com/EvgeniyAzovskov/Bash)
+*   **Веб-тестирование** – [функциональное и исследовательское тестирование](https://github.com/EvgeniyAzovskov/Azovskov)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EvgeniyAzovskov/Azovskov)
 
 
